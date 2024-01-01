@@ -1,5 +1,5 @@
 # PRUEBA_COMEXPORT
-Aplicación móvil que permita la GESTIÓN DE CONTACTO A CLIENTES en una empresa, que permitir registrar la siguiente información:
+Aplicación móvil de GESTIÓN DE CONTACTO A CLIENTES en una empresa, que permitir registrar la siguiente información:
 • Nombres,
 • Apellidos,
 • Teléfono,
